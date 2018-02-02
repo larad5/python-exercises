@@ -7,6 +7,7 @@ w2 = int(input("What is the second rectangle's width? "))
 a1 = l1 * w1
 a2 = l2 * w2
 
+#decision structure
 if a1 > a2:
     print("The area of the first rectangle is greater of the two.")
 elif a1 < a2:
