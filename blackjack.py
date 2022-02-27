@@ -55,6 +55,7 @@ player_total = player_cards[0] + player_cards[1]
 
 if player_total > 21:
     print("Player Bust!")
+    print("what needs to happen next?")
 
 # check to see if dealer is also 21, if so draw, if no user auto wins
 
